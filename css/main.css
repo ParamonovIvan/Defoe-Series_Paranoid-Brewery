@@ -54,6 +54,7 @@ body {
 .items .item:hover {
     transform: translateZ(calc(var(--index) * 10));
     filter: inherit;
+    width: calc(var(--index) * 6);
 }
 
 .items .item:hover + * {
