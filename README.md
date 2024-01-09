@@ -10,9 +10,12 @@
 
 #### Внешний вид страницы пивоварни:
 
+original:
 ![defoe](https://github.com/ParamonovIvan/Defoe-Series_Paranoid-Brewery/assets/131868856/5ea0c987-d00e-4690-913e-80652a35e390)
 
+hover:
 ![focus](https://github.com/ParamonovIvan/Defoe-Series_Paranoid-Brewery/assets/131868856/fc99f883-6893-4c99-a754-ff57eeffb55f)
 
+focus:
 ![active](https://github.com/ParamonovIvan/Defoe-Series_Paranoid-Brewery/assets/131868856/af2938e4-73ff-497b-8346-b26bd7391418)
 
