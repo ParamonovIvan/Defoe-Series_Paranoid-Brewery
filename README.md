@@ -8,7 +8,7 @@
 
 + https://paramonovivan.github.io/Defoe-Series_Paranoid-Brewery/
 
-#### Внешний вид страницы пивоварни:
+#### Внешний вид страницы галереи:
 
 original:
 ![defoe](https://github.com/ParamonovIvan/Defoe-Series_Paranoid-Brewery/assets/131868856/5ea0c987-d00e-4690-913e-80652a35e390)
